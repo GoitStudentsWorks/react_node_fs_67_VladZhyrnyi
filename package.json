@@ -2,7 +2,7 @@
   "name": "your-pet",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vladzhyrnyi.github.io/your-pet-front/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs_67_VladZhyrnyi/",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@emotion/styled": "^11.11.0",
